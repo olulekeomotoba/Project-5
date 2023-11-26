@@ -29,7 +29,7 @@ Filtering and Slicing: Implemented dynamic filtering and slicing options for use
 
 **PROJECT OUTCOMES**  <br>
 
-Clear Insights: The project provided a clear picture of how Northwind Traders Enterprise had performed over the specified time period. allowing stakeholders to make informed decisions based on historical data.
+Clear Insights: The project provided a clear picture of how Call Centre Trends Analysis of Softclue Global Technologies had performed over the specified time period. allowing stakeholders to make informed decisions based on historical data.
 
 Improved Decision-Making: The interactive Power BI dashboard empowered decision-makers to identify areas for improvement, allocate resources effectively, and set realistic performance targets.
 
