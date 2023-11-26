@@ -21,10 +21,10 @@ Transformation was done on the already cleansed data. The data had a lot of issu
 Created an optimized data model to establish relationships between call logs, agent performance, and call types. Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
 
 **VISUALIZATION AND ANALYSIS:**  <br> 
-Interactive and visually appealing dashboards showcasing trends, correlations, and patterns for effective decision-making. Created interactive visualizations, including bar charts, line graphs, heatmaps, and geographical maps, to represent key performance, trends, and regional comparisons. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) were analyzed over time to access the company's overall performance in the regions where sales took place.
+Interactive and visually appealing dashboards showcasing trends, correlations, and patterns for effective decision-making. Created interactive visualizations, including bar charts, line graphs, heatmaps, and geographical maps, to represent key performance, trends, and regional comparisons. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) were analyzed over time to access the company's overall performance in the regions where total calls were made.
 
 **DASHBOARD CREATION:**  <br> 
-Developed a user-friendly dashboard with slicers and filters enabling users to drill down into call details by date, agent, or call category. Constructed a user-friendly dashboard presenting KPIs, sales trends, and performance metrics.
+Developed a user-friendly dashboard with slicers and filters enabling users to drill down into call details by date, agent, or call category. Constructed a user-friendly dashboard presenting KPIs, call centre trends, and performance metrics.
 Filtering and Slicing: Implemented dynamic filtering and slicing options for users to drill down into specific data points. This dashboard was developed to present the insights in an intuitive and interactive manner thereby enabling users to gain a deep understanding of the company's performance.
 
 **PROJECT OUTCOMES**  <br>
@@ -35,7 +35,7 @@ Improved Decision-Making: The interactive Power BI dashboard empowered decision-
 
 Data Transparency: The project enhanced data transparency within the organization, making it easier for employees at all levels to access and understand the company's performance data.
 
-Data-Driven Culture: The project contributed to fostering a data-driven culture within Northwind Traders Enterprise, emphasizing the importance of data analysis in strategic decision-making.
+Data-Driven Culture: The project contributed to fostering a data-driven culture within Softclue Global Technologies, emphasizing the importance of data analysis in strategic decision-making.
 
 In conclusion, the "Call Centre Trends Analysis of Softclue Global Technologies" project successfully harnessed the capabilities of Power BI to transform raw data into actionable insights. This project not only provided valuable historical performance insights but also paved the way for a more data-informed approach to managing the company's operations.
 
