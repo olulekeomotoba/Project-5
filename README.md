@@ -1,4 +1,6 @@
 # Project-5
+![Screenshot (109)](https://github.com/olulekeomotoba/Project-5/assets/149272576/dd3bbd22-dbe7-41c8-a402-4470f15acf9a)
+
 **TITLE;**  <br>
 Call Centre Trends Analysis of Softclue Global Technologies
 
